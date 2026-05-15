@@ -98,11 +98,13 @@ Sujie Hu<sup>&#42;</sup>, **Chubin Chen**<sup>&#42;</sup> <sup>&ddagger;</sup>, 
 
 # 📖 Educations
 
-- *2024.08 - 2027.06*, **Tsinghua University**, Beijing, China.  
-  Master's Degree in Artificial Intelligence, advised by Prof. Xiu Li
+- *2024.08 - 2027.06*, **Tsinghua University**, Beijing, China.
+
+  *- Master's Degree in Artificial Intelligence, advised by Prof. Xiu Li
+  
 
 - *2020.09 - 2024.06*, **Beijing University of Posts and Telecommunications (BUPT)**, Beijing, China.  
-  Bachelor's Degree in Communication Engineering
+  *- Bachelor's Degree in Communication Engineering
 
 
 # 💻 Internships & Experience
@@ -111,4 +113,12 @@ Sujie Hu<sup>&#42;</sup>, **Chubin Chen**<sup>&#42;</sup> <sup>&ddagger;</sup>, 
 
 - *2025.03 - 2025.12*, **Alibaba Group**, Beijing, China.  
   Amap ML, advised by Xiangxiang Chu
+
+# 💼 Services
+Reviewer
+- ACM International Conference on Multimedia (ACM MM), 2025
+- AAAI Conference on Artificial Intelligence (AAAI), 2026
+- International Conference on Learning Representations (ICLR), 2026
+- Conference on Neural Information Processing Systems (NeurIPS), 2026
+
 
