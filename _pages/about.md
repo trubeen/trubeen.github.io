@@ -102,7 +102,8 @@ Sujie Hu<sup>*</sup>, **Chubin Chen**<sup>*</sup> <sup>‡</sup>, Jiashu Zhu, Ji
   *- Master's Degree in Artificial Intelligence, advised by Prof. Xiu Li
   
 
-- *2020.09 - 2024.06*: **Beijing University of Posts and Telecommunications**  
+- *2020.09 - 2024.06*: **Beijing University of Posts and Telecommunications**
+  
   *- Bachelor's Degree in Communication Engineering
 
 
@@ -111,6 +112,7 @@ Sujie Hu<sup>*</sup>, **Chubin Chen**<sup>*</sup> <sup>‡</sup>, Jiashu Zhu, Ji
 - *2026.01 - Present*, **ByteDance**, Beijing 
 
 - *2025.03 - 2025.12*, **Alibaba Group**, Beijing
+  
   Amap ML, advised by Xiangxiang Chu
 
 # 💼 Services
