@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 Hi, I'm Chubin Chen. I am currently a second-year master's student at Tsinghua University, under the supervision of Professor Xiu Li. I completed my undergraduate studies at Beijing University of Posts and Telecommunications (BUPT).
+
 My research lies in multimodal AIGC, spanning diffusion models, reinforcement learning, and world models.
+
 I am always open to discussing potential research collaborations with fellow researchers and practitioners in the field. Additionally, I am currently preparing to apply for PhD programs starting in the Fall 2027 semester, and I welcome any insights or opportunities in this pursuit.
 
 
