@@ -108,9 +108,9 @@ Sujie Hu<sup>*</sup>, **Chubin Chen**<sup>*</sup> <sup>‡</sup>, Jiashu Zhu, Ji
 
 # 💻 Internships & Experience
 
-- *2026.01 - Present*, **ByteDance**, Beijing, China.  
+- *2026.01 - Present*, **ByteDance**, Beijing 
 
-- *2025.03 - 2025.12*, **Alibaba Group**, Beijing, China.  
+- *2025.03 - 2025.12*, **Alibaba Group**, Beijing
   Amap ML, advised by Xiangxiang Chu
 
 # 💼 Services
