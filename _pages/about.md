@@ -49,7 +49,7 @@ I am always open to discussing potential research collaborations with fellow res
 
 [<strong><em><span style="color:#96ceb4;">S²-Guidance</span></em></strong>: <span style="color:#96ceb4;">S</span>tochastic <span style="color:#96ceb4;">S</span>elf Guidance for Training-Free Enhancement of Diffusion Models](https://arxiv.org/pdf/2508.12880)
 
-**Chubin Chen**, Jiashu Zhu, Xiaokun Feng, Nisha Huang, Meiqi Wu, Fangyuan Mao, Jiahong Wu, Xiangxiang Chu, Xiu Li<sup>&dagger;</sup>
+**Chubin Chen**, Jiashu Zhu, Xiaokun Feng, Nisha Huang, Meiqi Wu, Fangyuan Mao, Jiahong Wu, Xiangxiang Chu, Xiu Li<sup>†</sup>
 
 [**Project**](https://github.com/AMAP-ML/S2-Guidance) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
@@ -64,8 +64,7 @@ I am always open to discussing potential research collaborations with fellow res
 
 [<strong><em><span style="color:#4ecdc4;">D²-Align</span></em></strong>: Taming Preference Mode Collapse via <span style="color:#4ecdc4;">D</span>irectional <span style="color:#4ecdc4;">D</span>ecoupling Alignment in Diffusion Reinforcement Learning](https://arxiv.org/pdf/2512.24146)
 
-**Chubin Chen**<sup>&#42;</sup>, Sujie Hu<sup>&#42;</sup>, Jiashu Zhu, Meiqi Wu, Jintao Chen, Yanxun Li, Nisha Huang, Chengyu Fang, Jiahong Wu<sup>&dagger;</sup>, Xiangxiang Chu, Xiu Li<sup>&dagger;</sup>
-
+**Chubin Chen**<sup>*</sup>, Sujie Hu<sup>*</sup>, Jiashu Zhu, Meiqi Wu, Jintao Chen, Yanxun Li, Nisha Huang, Chengyu Fang, Jiahong Wu<sup>&dagger;</sup>, Xiangxiang Chu, Xiu Li<sup>†</sup>
 
 
 
@@ -78,9 +77,9 @@ I am always open to discussing potential research collaborations with fellow res
 
 [<strong><em><span style="color:#ff6b6b;">E²PO</span></em></strong>: <span style="color:#ff6b6b;">E</span>mbedding-perturbed <span style="color:#ff6b6b;">E</span>xploration Preference Optimization for Flow Models](https://icml.cc/virtual/2026/poster/65731)
 
-Sujie Hu<sup>&#42;</sup>, **Chubin Chen**<sup>&#42;</sup> <sup>‡</sup>, Jiashu Zhu, Jiahong Wu, Xiangxiang Chu, Xiu Li<sup>&dagger;</sup> 
+Sujie Hu<sup>*</sup>, **Chubin Chen**<sup>*</sup> <sup>‡</sup>, Jiashu Zhu, Jiahong Wu, Xiangxiang Chu, Xiu Li<sup>†</sup>
  
- (<sup>&#42;</sup> Equal contribution;  <sup>&dagger;</sup> Corresponding author; <sup>‡</sup> Project lead)
+ (<sup>*</sup> Equal contribution;  <sup>†</sup> Corresponding author; <sup>‡</sup> Project lead)
 
 
 
