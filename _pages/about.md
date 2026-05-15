@@ -47,9 +47,9 @@ I am always open to discussing potential research collaborations with fellow res
 
 <div class='paper-box-text' markdown="1">
 
-[<strong><em><span style="color:#96ceb4;">S²-Guidance</span></em></strong>: <span style="color:#96ceb4;">S</span>tochastic <span style="color:#96ceb4;">S</span>elf Guidance for Training-Free Enhancement of Diffusion Models](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[<strong><em><span style="color:#96ceb4;">S²-Guidance</span></em></strong>: <span style="color:#96ceb4;">S</span>tochastic <span style="color:#96ceb4;">S</span>elf Guidance for Training-Free Enhancement of Diffusion Models](https://arxiv.org/pdf/2508.12880)
 
-**Chubin Chen**, Jiashu Zhu, Xiaokun Feng, Nisha Huang, Meiqi Wu, Fangyuan Mao, Jiahong Wu, Xiangxiang Chu, Xiu Li
+**Chubin Chen**, Jiashu Zhu, Xiaokun Feng, Nisha Huang, Meiqi Wu, Fangyuan Mao, Jiahong Wu, Xiangxiang Chu, Xiu Li<sup>&dagger;</sup>
 
 [**Project**](https://github.com/AMAP-ML/S2-Guidance) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
@@ -62,9 +62,9 @@ I am always open to discussing potential research collaborations with fellow res
 
 <div class='paper-box-text' markdown="1">
 
-[<strong><em><span style="color:#4ecdc4;">D²-Align</span></em></strong>: Taming Preference Mode Collapse via <span style="color:#4ecdc4;">D</span>irectional <span style="color:#4ecdc4;">D</span>ecoupling Alignment in Diffusion Reinforcement Learning](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cVOC7dwAAAAJ&citation_for_view=cVOC7dwAAAAJ:zA6iFVUQeVQC)
+[<strong><em><span style="color:#4ecdc4;">D²-Align</span></em></strong>: Taming Preference Mode Collapse via <span style="color:#4ecdc4;">D</span>irectional <span style="color:#4ecdc4;">D</span>ecoupling Alignment in Diffusion Reinforcement Learning](https://arxiv.org/pdf/2512.24146)
 
-**Chubin Chen**<sup>&#42;</sup>, Sujie Hu<sup>&#42;</sup>, Jiashu Zhu, Meiqi Wu, Jintao Chen, Yanxun Li, Nisha Huang, Chengyu Fang, Jiahong Wu, Xiangxiang Chu, Xiu Li
+**Chubin Chen**<sup>&#42;</sup>, Sujie Hu<sup>&#42;</sup>, Jiashu Zhu, Meiqi Wu, Jintao Chen, Yanxun Li, Nisha Huang, Chengyu Fang, Jiahong Wu<sup>&dagger;</sup>, Xiangxiang Chu, Xiu Li<sup>&dagger;</sup>
 
 
 
@@ -76,9 +76,12 @@ I am always open to discussing potential research collaborations with fellow res
 
 <div class='paper-box-text' markdown="1">
 
-[<strong><em><span style="color:#ff6b6b;">E²PO</span></em></strong>: <span style="color:#ff6b6b;">E</span>mbedding-perturbed <span style="color:#ff6b6b;">E</span>xploration Preference Optimization for Flow Models](你的论文链接)
+[<strong><em><span style="color:#ff6b6b;">E²PO</span></em></strong>: <span style="color:#ff6b6b;">E</span>mbedding-perturbed <span style="color:#ff6b6b;">E</span>xploration Preference Optimization for Flow Models](https://icml.cc/virtual/2026/poster/65731)
 
-Sujie Hu<sup>&#42;</sup> ⋅ **Chubin Chen**<sup>&#42;</sup> ⋅ Jiashu Zhu ⋅ Jiahong Wu ⋅ Xiangxiang Chu ⋅ Xiu Li
+Sujie Hu<sup>&#42;</sup> ⋅ **Chubin Chen**<sup>&#42;</sup> <sup>&ddagger;</sup>
+ ⋅ Jiashu Zhu ⋅ Jiahong Wu ⋅ Xiangxiang Chu ⋅ Xiu Li<sup>&dagger;</sup> 
+ 
+ (<sup>&#42;</sup> Equal contribution;  <sup>&dagger;</sup> Corresponding author; <sup>&ddagger;</sup> Project lead)
 
 
 
