@@ -78,9 +78,9 @@ I am always open to discussing potential research collaborations with fellow res
 
 [<strong><em><span style="color:#ff6b6b;">E²PO</span></em></strong>: <span style="color:#ff6b6b;">E</span>mbedding-perturbed <span style="color:#ff6b6b;">E</span>xploration Preference Optimization for Flow Models](https://icml.cc/virtual/2026/poster/65731)
 
-Sujie Hu<sup>&#42;</sup>, **Chubin Chen**<sup>&#42;</sup> <sup>&ddagger;</sup>, Jiashu Zhu, Jiahong Wu, Xiangxiang Chu, Xiu Li<sup>&dagger;</sup> 
+Sujie Hu<sup>&#42;</sup>, **Chubin Chen**<sup>&#42;</sup> <sup>‡</sup>, Jiashu Zhu, Jiahong Wu, Xiangxiang Chu, Xiu Li<sup>&dagger;</sup> 
  
- (<sup>&#42;</sup> Equal contribution;  <sup>&dagger;</sup> Corresponding author; <sup>&ddagger;</sup> Project lead)
+ (<sup>&#42;</sup> Equal contribution;  <sup>&dagger;</sup> Corresponding author; <sup>‡</sup> Project lead)
 
 
 
