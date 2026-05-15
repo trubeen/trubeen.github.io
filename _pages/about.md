@@ -39,21 +39,62 @@ I am always open to discussing potential research collaborations with fellow res
 
 
 
-# 📝 Publications 
+# 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<!-- 三篇带平方的核心论文，单独用特殊卡片突出 -->
+## ✨ Featured Works
+<div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 20px; margin-bottom: 40px;">
+
+<!-- E²PO 卡片 -->
+<div class='paper-box' style="border: 3px solid #ff6b6b; border-radius: 12px; padding: 15px; background: #fff5f5;">
+  <div class='paper-box-image'>
+    <div><div class="badge" style="background: linear-gradient(135deg, #ff6b6b, #ee5a5a);">ICML 2026</div>
+    <img src='images/500x300.png' alt="sym" width="100%"></div>
+  </div>
+  <div class='paper-box-text' markdown="1" style="padding:10px;">
+  [***`E²PO`***: 论文完整标题在这里](https://your-paper-link.com)  
+  **你的名字**, 其他作者...  
+  [Project](链接) | [Paper](链接)
+  </div>
+</div>
+
+<!-- D²-Align 卡片 -->
+<div class='paper-box' style="border: 3px solid #4ecdc4; border-radius: 12px; padding: 15px; background: #f2fffd;">
+  <div class='paper-box-image'>
+    <div><div class="badge" style="background: linear-gradient(135deg, #4ecdc4, #44a08d);">CVPR 2026</div>
+    <img src='images/500x300.png' alt="sym" width="100%"></div>
+  </div>
+  <div class='paper-box-text' markdown="1" style="padding:10px;">
+  [***`D²-Align`***: 论文完整标题在这里](https://your-paper-link.com)  
+  **你的名字**, 其他作者...  
+  [Project](链接) | [Paper](链接)
+  </div>
+</div>
+
+<!-- S²-Guidance 卡片 -->
+<div class='paper-box' style="border: 3px solid #96ceb4; border-radius: 12px; padding: 15px; background: #f5fff9;">
+  <div class='paper-box-image'>
+    <div><div class="badge" style="background: linear-gradient(135deg, #96ceb4, #88b899);">ICLR 2026</div>
+    <img src='images/500x300.png' alt="sym" width="100%"></div>
+  </div>
+  <div class='paper-box-text' markdown="1" style="padding:10px;">
+  [***`S²-Guidance`***: Stochastic Self Guidance for Training-Free Enhancement of Diffusion Models](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)  
+  **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun  
+  [**Project**](https://scholar.google.com/...) 
+  </div>
+</div>
+</div>
+
+<!-- 其他普通论文，沿用原来的格式 -->
+## Other Publications
+<div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-[***`S²-Guidance`***: Stochastic Self Guidance for Training-Free Enhancement of Diffusion Models](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+[**普通论文标题**]: 其他论文描述...
+</div></div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
