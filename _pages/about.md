@@ -39,7 +39,7 @@ I am always open to discussing potential research collaborations with fellow res
 
 
 
-# 📝 Publications
+# 📝 Selected Publications
 
 
 <!-- S²-Guidance 保留500×300图片，整个名称全染绿色，Stochastic/Self的S都染同色 -->
