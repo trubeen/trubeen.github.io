@@ -39,32 +39,76 @@ I am always open to discussing potential research collaborations with fellow res
 
 # 📝 Publications
 
-<!-- S²-Guidance 保留500×300图片，整个名称全染绿色 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[<strong><em><span style="color:#96ceb4;">S²-Guidance</span></em></strong>: Stochastic Self Guidance for Training-Free Enhancement of Diffusion Models](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-**Chubin Chen**, Jiashu Zhu, Xiaokun Feng, Nisha Huang, Meiqi Wu, Fangyuan Mao, Jiahong Wu, Xiangxiang Chu, Xiu Li
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-</div></div>
+<!-- S²-Guidance -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div><div class="badge">ICLR 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+    <u>***[<span style="color:#96ceb4;">S²-Guidance</span>](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)***</u>
+    <u>[: <span style="color:#96ceb4;">S</span>tochastic <span style="color:#96ceb4;">S</span>elf Guidance for Training-Free Enhancement of Diffusion Models](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)</u>
+    <br><br>
+    **Chubin Chen**, Jiashu Zhu, Xiaokun Feng, Nisha Huang, Meiqi Wu, Fangyuan Mao, Jiahong Wu, Xiangxiang Chu, Xiu Li
+    <br><br>
+    <u>**[Project](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC)**</u>
+    <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+    <br><br>
+    - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+  </div>
+</div>
 
-<!-- D²-Align 保留500×300图片，整个名称全染青绿色 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[<strong><em><span style="color:#4ecdc4;">D²-Align</span></em></strong>: Taming Preference Mode Collapse via Directional Decoupling Alignment in Diffusion Reinforcement Learning](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cVOC7dwAAAAJ&citation_for_view=cVOC7dwAAAAJ:zA6iFVUQeVQC)
-**Chubin Chen**, Sujie Hu, Jiashu Zhu, Meiqi Wu, Jintao Chen, Yanxun Li, Nisha Huang, Chengyu Fang, Jiahong Wu, Xiangxiang Chu, Xiu Li
-[**Project**](你的项目链接)
-- 论文描述...
-</div></div>
+<!-- D²-Align -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div><div class="badge">CVPR 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+    <u>***[<span style="color:#4ecdc4;">D²-Align</span>](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cVOC7dwAAAAJ&citation_for_view=cVOC7dwAAAAJ:zA6iFVUQeVQC)***</u>
+    <u>[: Taming Preference Mode Collapse via <span style="color:#4ecdc4;">D</span>irectional <span style="color:#4ecdc4;">D</span>ecoupling Alignment in Diffusion Reinforcement Learning](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cVOC7dwAAAAJ&citation_for_view=cVOC7dwAAAAJ:zA6iFVUQeVQC)</u>
+    <br><br>
+    **Chubin Chen**, Sujie Hu, Jiashu Zhu, Meiqi Wu, Jintao Chen, Yanxun Li, Nisha Huang, Chengyu Fang, Jiahong Wu, Xiangxiang Chu, Xiu Li
+    <br><br>
+    <u>**[Project](你的项目链接)**</u>
+    <br><br>
+    - 论文描述...
+  </div>
+</div>
 
-<!-- E²PO 保留500×300图片，整个名称全染红色，连Embedding的E也同色 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[<strong><em><span style="color:#ff6b6b;">E²PO</span></em></strong>: <span style="color:#ff6b6b;">E</span>mbedding-perturbed Exploration Preference Optimization for Flow Models](你的论文链接)
-Sujie Hu ⋅ Chubin Chen ⋅ Jiashu Zhu ⋅ Jiahong Wu ⋅ Xiangxiang Chu ⋅ Xiu Li
-[**Project**](你的项目链接)
-- 论文描述...
-</div></div>
+<!-- E²PO -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div><div class="badge">ICML 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+    <u>***[<span style="color:#ff6b6b;">E²PO</span>](你的论文链接)***</u>
+    <u>[: <span style="color:#ff6b6b;">E</span>mbedding-perturbed <span style="color:#ff6b6b;">E</span>xploration Preference Optimization for Flow Models](你的论文链接)</u>
+    <br><br>
+    Sujie Hu ⋅ **Chubin Chen** ⋅ Jiashu Zhu ⋅ Jiahong Wu ⋅ Xiangxiang Chu ⋅ Xiu Li
+    <br><br>
+    <u>**[Project](你的项目链接)**</u>
+    <br><br>
+    - 论文描述...
+  </div>
+</div>
+
+<!-- 其他普通论文 -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+    [**普通论文标题**：论文完整描述](https://github.com)
+    <br><br>
+    **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+    <br><br>
+    [**Project**](https://scholar.google.com/...) <strong><span class='show_paper_citations' data='xxx'></span></strong>
+    <br><br>
+    - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+  </div>
+</div>
+
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
 
 
 
