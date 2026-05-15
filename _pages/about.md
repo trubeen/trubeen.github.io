@@ -51,9 +51,9 @@ I am always open to discussing potential research collaborations with fellow res
 
 **Chubin Chen**, Jiashu Zhu, Xiaokun Feng, Nisha Huang, Meiqi Wu, Fangyuan Mao, Jiahong Wu, Xiangxiang Chu, Xiu Li
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://github.com/AMAP-ML/S2-Guidance) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+
 
 </div></div>
 
@@ -66,9 +66,8 @@ I am always open to discussing potential research collaborations with fellow res
 
 **Chubin Chen**<sup>&#42;</sup>, Sujie Hu<sup>&#42;</sup>, Jiashu Zhu, Meiqi Wu, Jintao Chen, Yanxun Li, Nisha Huang, Chengyu Fang, Jiahong Wu, Xiangxiang Chu, Xiu Li
 
-[**Project**](你的项目链接)
 
-- 论文描述...
+
 
 </div></div>
 
@@ -81,9 +80,8 @@ I am always open to discussing potential research collaborations with fellow res
 
 Sujie Hu<sup>&#42;</sup> ⋅ **Chubin Chen**<sup>&#42;</sup> ⋅ Jiashu Zhu ⋅ Jiahong Wu ⋅ Xiangxiang Chu ⋅ Xiu Li
 
-[**Project**](你的项目链接)
 
-- 论文描述...
+
 
 </div></div>
 
