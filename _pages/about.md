@@ -24,11 +24,11 @@ I am always open to discussing potential research collaborations with fellow res
 
 # 🔥 News
 
-- *2026.05*: &nbsp;🎉 <strong><em><span style="color:#ff6b6b;">E</span>²PO</em></strong> (co-first-author) and another co-author paper were both accepted by **ICML 2026**!
+- *2026.05*: &nbsp;🎉 <strong><em><span style="color:#ff6b6b;">E</span><span style="color:#ff6b6b;">²</span>PO</em></strong> (co-first-author) and another co-author paper were both accepted by **ICML 2026**!
 
-- *2026.02*: &nbsp;🎉 One first-author paper, <strong><em><span style="color:#4ecdc4;">D</span>²-Align</em></strong> was accepted by **CVPR 2026**!
+- *2026.02*: &nbsp;🎉 One first-author paper, <strong><em><span style="color:#4ecdc4;">D</span><span style="color:#4ecdc4;">²</span>-Align</em></strong> was accepted by **CVPR 2026**!
 
-- *2026.01*: &nbsp;🎉 One first-author paper, <strong><em><span style="color:#96ceb4;">S</span>²-Guidance</em></strong> was accepted by **ICLR 2026**!
+- *2026.01*: &nbsp;🎉 One first-author paper, <strong><em><span style="color:#96ceb4;">S</span><span style="color:#96ceb4;">²</span>-Guidance</em></strong> was accepted by **ICLR 2026**!
 
 - *2025.11*: &nbsp;🎉 Two papers were accepted by **AAAI 2026**!
 
@@ -40,60 +40,36 @@ I am always open to discussing potential research collaborations with fellow res
 
 
 
+
 # 📝 Publications
 
-<!-- 三篇核心论文按顺序排列，每个都单独突出标题 -->
-## ✨ Featured Works
-<!-- S²-Guidance -->
-<div class='paper-box' style="margin: 20px 0; border-left: 5px solid #96ceb4; padding-left: 18px;">
-  <div class='paper-box-text' markdown="1">
-  <span style="font-size: 1.3em; font-weight: bold; color: #96ceb4;">S²-Guidance</span>  
-  **Stochastic Self Guidance for Training-Free Enhancement of Diffusion Models**  
-  <br>
-  Chubin Chen, Jiashu Zhu, Xiaokun Feng, Nisha Huang, Meiqi Wu, Fangyuan Mao, Jiahong Wu, Xiangxiang Chu, Xiu Li  
-  <br><br>
-  <span style="background: #96ceb4; color: white; padding: 3px 8px; border-radius: 4px; font-size: 0.9em;">ICLR 2026</span>
-  &nbsp;&nbsp;[📄 Paper](链接) | [🔗 Project](链接)
-  </div>
-</div>
-
-<!-- D²-Align -->
-<div class='paper-box' style="margin: 20px 0; border-left: 5px solid #4ecdc4; padding-left: 18px;">
-  <div class='paper-box-text' markdown="1">
-  <span style="font-size: 1.3em; font-weight: bold; color: #4ecdc4;">D²-Align</span>  
-  **Taming Preference Mode Collapse via Directional Decoupling Alignment in Diffusion Reinforcement Learning**  
-  <br>
-  Chubin Chen, Sujie Hu, Jiashu Zhu, Meiqi Wu, Jintao Chen, Yanxun Li, Nisha Huang, Chengyu Fang, Jiahong Wu, Xiangxiang Chu, Xiu Li  
-  <br><br>
-  <span style="background: #4ecdc4; color: white; padding: 3px 8px; border-radius: 4px; font-size: 0.9em;">CVPR 2026</span>
-  &nbsp;&nbsp;[📄 Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cVOC7dwAAAAJ&citation_for_view=cVOC7dwAAAAJ:zA6iFVUQeVQC) | [🔗 Project](链接)
-  </div>
-</div>
-
-<!-- E²PO -->
-<div class='paper-box' style="margin: 20px 0; border-left: 5px solid #ff6b6b; padding-left: 18px;">
-  <div class='paper-box-text' markdown="1">
-  <span style="font-size: 1.3em; font-weight: bold; color: #ff6b6b;">E²PO</span>  
-  **Embedding-perturbed Exploration Preference Optimization for Flow Models**  
-  <br>
-  Sujie Hu ⋅ Chubin Chen ⋅ Jiashu Zhu ⋅ Jiahong Wu ⋅ Xiangxiang Chu ⋅ Xiu Li  
-  <br><br>
-  <span style="background: #ff6b6b; color: white; padding: 3px 8px; border-radius: 4px; font-size: 0.9em;">ICML 2026</span>
-  &nbsp;&nbsp;[📄 Paper](链接) | [🔗 Project](链接)
-  </div>
-</div>
-
-<!-- 其他普通论文，沿用你原来的格式 -->
-## Other Publications
+<!-- S²-Guidance 保留原图片结构，首字母+平方都上色 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[**S²-Guidance**: Stochastic Self Guidance for Training-Free Enhancement of Diffusion Models](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+[<strong><em><span style="color:#96ceb4;">S</span><span style="color:#96ceb4;">²</span>-Guidance</em></strong>: Stochastic Self Guidance for Training-Free Enhancement of Diffusion Models](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**Chubin Chen**, Jiashu Zhu, Xiaokun Feng, Nisha Huang, Meiqi Wu, Fangyuan Mao, Jiahong Wu, Xiangxiang Chu, Xiu Li
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 </div></div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<!-- D²-Align 保留图片结构，首字母+平方上色 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[<strong><em><span style="color:#4ecdc4;">D</span><span style="color:#4ecdc4;">²</span>-Align</em></strong>: Taming Preference Mode Collapse via Directional Decoupling Alignment in Diffusion Reinforcement Learning](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cVOC7dwAAAAJ&citation_for_view=cVOC7dwAAAAJ:zA6iFVUQeVQC)
+**Chubin Chen**, Sujie Hu, Jiashu Zhu, Meiqi Wu, Jintao Chen, Yanxun Li, Nisha Huang, Chengyu Fang, Jiahong Wu, Xiangxiang Chu, Xiu Li
+[**Project**](你的项目链接)
+- 论文描述...
+</div></div>
+
+<!-- E²PO 保留图片结构，首字母+E(Embedding里的E)也都上色 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[<strong><em><span style="color:#ff6b6b;">E</span><span style="color:#ff6b6b;">²</span>PO</em></strong>: <span style="color:#ff6b6b;">E</span>mbedding-perturbed Exploration Preference Optimization for Flow Models](你的论文链接)
+Sujie Hu ⋅ Chubin Chen ⋅ Jiashu Zhu ⋅ Jiahong Wu ⋅ Xiangxiang Chu ⋅ Xiu Li
+[**Project**](你的项目链接)
+- 论文描述...
+</div></div>
+
 
 
 
