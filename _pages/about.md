@@ -64,7 +64,7 @@ I am always open to discussing potential research collaborations with fellow res
 
 [<strong><em><span style="color:#4ecdc4;">D²-Align</span></em></strong>: Taming Preference Mode Collapse via <span style="color:#4ecdc4;">D</span>irectional <span style="color:#4ecdc4;">D</span>ecoupling Alignment in Diffusion Reinforcement Learning](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cVOC7dwAAAAJ&citation_for_view=cVOC7dwAAAAJ:zA6iFVUQeVQC)
 
-**Chubin Chen**, Sujie Hu, Jiashu Zhu, Meiqi Wu, Jintao Chen, Yanxun Li, Nisha Huang, Chengyu Fang, Jiahong Wu, Xiangxiang Chu, Xiu Li
+**Chubin Chen**<sup>&#42;</sup>, Sujie Hu<sup>&#42;</sup>, Jiashu Zhu, Meiqi Wu, Jintao Chen, Yanxun Li, Nisha Huang, Chengyu Fang, Jiahong Wu, Xiangxiang Chu, Xiu Li
 
 [**Project**](你的项目链接)
 
@@ -79,7 +79,7 @@ I am always open to discussing potential research collaborations with fellow res
 
 [<strong><em><span style="color:#ff6b6b;">E²PO</span></em></strong>: <span style="color:#ff6b6b;">E</span>mbedding-perturbed <span style="color:#ff6b6b;">E</span>xploration Preference Optimization for Flow Models](你的论文链接)
 
-Sujie Hu ⋅ **Chubin Chen** ⋅ Jiashu Zhu ⋅ Jiahong Wu ⋅ Xiangxiang Chu ⋅ Xiu Li
+Sujie Hu<sup>&#42;</sup> ⋅ **Chubin Chen**<sup>&#42;</sup> ⋅ Jiashu Zhu ⋅ Jiahong Wu ⋅ Xiangxiang Chu ⋅ Xiu Li
 
 [**Project**](你的项目链接)
 
