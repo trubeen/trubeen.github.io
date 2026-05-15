@@ -78,8 +78,7 @@ I am always open to discussing potential research collaborations with fellow res
 
 [<strong><em><span style="color:#ff6b6b;">E²PO</span></em></strong>: <span style="color:#ff6b6b;">E</span>mbedding-perturbed <span style="color:#ff6b6b;">E</span>xploration Preference Optimization for Flow Models](https://icml.cc/virtual/2026/poster/65731)
 
-Sujie Hu<sup>&#42;</sup> ⋅ **Chubin Chen**<sup>&#42;</sup> <sup>&ddagger;</sup>
- ⋅ Jiashu Zhu ⋅ Jiahong Wu ⋅ Xiangxiang Chu ⋅ Xiu Li<sup>&dagger;</sup> 
+Sujie Hu<sup>&#42;</sup>, **Chubin Chen**<sup>&#42;</sup> <sup>&ddagger;</sup>, Jiashu Zhu, Jiahong Wu, Xiangxiang Chu, Xiu Li<sup>&dagger;</sup> 
  
  (<sup>&#42;</sup> Equal contribution;  <sup>&dagger;</sup> Corresponding author; <sup>&ddagger;</sup> Project lead)
 
@@ -91,19 +90,25 @@ Sujie Hu<sup>&#42;</sup> ⋅ **Chubin Chen**<sup>&#42;</sup> <sup>&ddagger;</sup
 
 
 
-
-
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+- *2025.10*: &nbsp; Ping An 'AI Bank' Scholarship (First Class)
+
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2024.08 - 2027.06*, **Tsinghua University**, Beijing, China.  
+  Master's Degree in Artificial Intelligence, advised by Prof. Xiu Li
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2020.09 - 2024.06*, **Beijing University of Posts and Telecommunications (BUPT)**, Beijing, China.  
+  Bachelor's Degree in Communication Engineering
+
+
+# 💻 Internships & Experience
+
+- *2026.01 - Present*, **ByteDance**, Beijing, China.  
+
+- *2025.03 - 2025.12*, **Alibaba Group**, Beijing, China.  
+  Amap ML, advised by Xiangxiang Chu
+
