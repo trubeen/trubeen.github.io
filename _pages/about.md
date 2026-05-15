@@ -98,12 +98,12 @@ Sujie Hu<sup>&#42;</sup>, **Chubin Chen**<sup>&#42;</sup> <sup>&ddagger;</sup>, 
 
 # 📖 Educations
 
-- *2024.08 - 2027.06*, **Tsinghua University**, Beijing, China.
+- *2024.08 - 2027.06*: **Tsinghua University**
 
   *- Master's Degree in Artificial Intelligence, advised by Prof. Xiu Li
   
 
-- *2020.09 - 2024.06*, **Beijing University of Posts and Telecommunications (BUPT)**, Beijing, China.  
+- *2020.09 - 2024.06*: **Beijing University of Posts and Telecommunications**  
   *- Bachelor's Degree in Communication Engineering
 
 
