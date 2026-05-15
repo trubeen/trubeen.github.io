@@ -27,8 +27,8 @@ I am always open to discussing potential research collaborations with fellow res
 # 🔥 News
 
 - *2026.05*: &nbsp;🎉 <strong><em><span style="color:#ff6b6b;">E²PO</span></em></strong> (co-first-author) and another co-author paper were both accepted by **ICML 2026**!
-- *2026.02*: &nbsp;🎉 One first-author paper, <strong><em><span style="color:#4ecdc4;">D²-Align</span></em></strong> was accepted by **CVPR 2026**!
-- *2026.01*: &nbsp;🎉 One first-author paper, <strong><em><span style="color:#96ceb4;">S²-Guidance</span></em></strong> was accepted by **ICLR 2026**!
+- *2026.02*: &nbsp;🎉 <strong><em><span style="color:#4ecdc4;">D²-Align</span></em></strong> (first-author) was accepted by **CVPR 2026**!
+- *2026.01*: &nbsp;🎉 <strong><em><span style="color:#96ceb4;">S²-Guidance</span></em></strong> (first-author) was accepted by **ICLR 2026**!
 - *2025.11*: &nbsp;🎉 Two papers were accepted by **AAAI 2026**!
 - *2025.07*: &nbsp;🎉 One paper was accepted by **ICCV 2025**!
 - *2025.01*: &nbsp;🎉 One paper was accepted by **ICLR 2025**!
